@@ -1,0 +1,3 @@
+GET http://localhost:3000/api/job-listings?url=https%3A%2F%2Fjobs.lever.co%2Fcohere%2F
+###
+GET http://localhost:3000/api/job-listings?url=https%3A%2F%2Fjobs.lever.co%2Fanduril%2F
